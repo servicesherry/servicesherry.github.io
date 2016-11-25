@@ -1,5 +1,5 @@
 var en_US={
-    navHome:"home",
+    navHome:"HOME",
     navAbout:"ABOUT US",
     navProduct:"PRODUCT",
     navEvent:"EVENT",
