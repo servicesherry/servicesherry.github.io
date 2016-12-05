@@ -34,7 +34,7 @@ var en_US={
     about_main1:"Innovative product design to meet customer needs",
     about_main2:"To become the industry pioneer, leading the fashion industry",
     about_main1_1:"Committed to providing professional, high-quality clothing design and production, so that people enjoy the forefront of fashion life experience.",
-    about_main2_2:"Meet the full range of customer demands, for people to create a unique personal style.",
+    about_main2_2:"Meeting the total demand of customer , to create exclusive personal style.",
     about_main2_3:"Synchronized with the world in the creation of popular fashion, but also brings the exquisite quality and service.",
     about_main2_1:"Combined with the most important elements of the selection of the new market demands, the company's brand image into product design, strengthen design style, highlight the product style, to consolidate corporate positioning.",
     about_main1_2:"Will be excellent product design, rigorous product mix design, and innovative product concept integration, after years of precipitation accumulation, the company's products in the fierce competition in the market to stand out.",
