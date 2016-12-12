@@ -671,11 +671,11 @@ color: #333333;
 	text-decoration:none;
 }
 .news-grid span {
-  color: #DA491C;
+  color: #333;
   font-size: 14px;
   line-height: 1.7em;
 }
-.news-info p {
+.news-info p span{
     color:#898989;
     font-size:12px;
     /*margin-top:10px;*/

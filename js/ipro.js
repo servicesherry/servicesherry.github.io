@@ -69,16 +69,16 @@ $(function () {
         var sT1=li[1].offsetTop;
         var sT2=li[2].offsetTop;
         var sT3=li[3].offsetTop;
-        if(scrollTop>=sT0){
+        if(scrollTop>=(sT0-20)){
             $('.products-body-ul>li:nth-child(1) div.container-box>div.rf').addClass("wow fadeInLeft animated").next().addClass("wow fadeInRight animated");
         }
-        if(scrollTop>=sT1){
+        if(scrollTop>=(sT1-20)){
             $('.products-body-ul>li:nth-child(2) div.container-box>div.lf').addClass("wow fadeInRight animated").next().addClass("wow fadeInLeft animated");
         }
-        if(scrollTop>=sT2){
+        if(scrollTop>=(sT2-20)){
             $('.products-body-ul>li:nth-child(3) div.container-box>div.rf').addClass("wow fadeInLeft animated").next().addClass("wow fadeInRight animated");
         }
-        if(scrollTop>=sT3){
+        if(scrollTop>=(sT3-20)){
             $('.products-body-ul>li:nth-child(4) div.container-box>div.lf').addClass("wow fadeInRight animated").next().addClass("wow fadeInLeft animated");
         }
         // if(scrollTop>=(sT3+sT0)){
