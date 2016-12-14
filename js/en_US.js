@@ -41,7 +41,7 @@ var en_US={
     about_main1_3:"Leading the fashion design elements",
     about_team:"Enterprise Structure",
     about_tree:"",
-    home_header:"Company Profile(Stock Code 870099)",
+    home_header:"Profile(Stock Code 870099)",
     home_header1:"The design and production of specialized, high quality clothing",
     home_header2:"Reasonable price, excellent work efficiency, considerate customer service, rigorous design",
     home_header3:"Services provided by the company rely on professional and perfect design process, able to provide customers from the market survey, preliminary analysis, design, structural design, mold processing, batch production and sales of the station design services.",
