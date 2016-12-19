@@ -173,7 +173,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
              style="visibility: visible; -webkit-animation-delay: 0.4s;">
             <h3><span localeString="footAddr">地址</span></h3>
             <div class="address">
-                <p><span localeString="footAddr2">北京市朝阳区双井街道广渠路28号223号楼</span>
+                <p><span localeString="footAddr2">北京市朝阳区广渠路28号223号楼</span>
                     <span localeString="footAddr2_5"></span>
                     <span localeString="footAddr3">合生财富广场L307-308室</span>
                 </p>
@@ -206,7 +206,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
         <div class="copyright-left wow fadeInLeft animated col-md-12" data-wow-delay="0.4s"
              style="visibility: visible; -webkit-animation-delay: 0.4s;">
             <p style="text-align:center">Copyright &copy; 2016.Sherry All rights reserved.  <span id="beiAn_img" style="display:inline-block;width:20px;height:20px;background:url('../images/BA.png') no-repeat;position: relative;top:5px;
-                left:-5px;"></span>京公网安备：11010502031609号</p>
+                left:-5px;"></span>京公网安备：11010502031609号 京ICP备16045078号</p>
         </div>
         <!--<div class="copyright-right wow fadeInRight animated" data-wow-delay="0.4s"-->
              <!--style="visibility: visible; -webkit-animation-delay: 0.4s;">-->
