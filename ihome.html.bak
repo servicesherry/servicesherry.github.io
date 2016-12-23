@@ -195,24 +195,24 @@
         </div>
         <div class="news-grids">
             <div class="col-md-3 news-grid wow bounceIn animated" data-wow-delay="0.4s" style="visibility: visible; -webkit-animation-delay: 0.4s;">
-                <h4><span localeString="home_news1">2016秋冬秀场</span></h4>
-                <span localeString="home_news1_">10.00 - 15.00 | 12-22-2016</span>
+                <h4><span localeString="home_news1">TODD HESSERT成立纽约官方时装周中国专场</span></h4>
+                <span localeString="home_news1_">10.00 - 15.00 | 08-29-2016</span>
                 <img src="images/news1.png" alt="" />
                 <div class="news-info">
-                    <p><span localeString="home_news1__">2016秋冬秀场完整展现了一幅前苏联时期的社会图卷，这里有系着阿廖努什卡式头巾的劳动妇女、架着金属眼镜的知识分子和身穿华美皮裘的电影明星……配饰上，看似不和谐的单品宣告着对矫饰主义时装的反叛，与当下“反时尚”的态度不谋而合。</span></p>
+                    <p><span localeString="home_news1__">近日，美国环球时装周（GLOBE FASHION WEEK）时尚总监TODD HESSERT签约全球时尚巨头美国国际管理集团（IMG）。IMG将与环球时装周合作打造纽约官方时装周中国专场。</span></p>
                 </div>
             </div>
             <div class="col-md-3 news-grid wow bounceIn animated" data-wow-delay="0.4s" style="visibility: visible; -webkit-animation-delay: 0.4s;">
                 <h4><span localeString="home_news2">内衣界的劳斯莱斯要推成衣 La Perla战略转型</span></h4>
-                <span localeString="home_news2_">8.00 - 9.00 | 12-22-2016</span>
+                <span localeString="home_news2_">8.00 - 9.00 | 08-29-2016</span>
                 <img src="images/news2.png" alt="" />
                 <div class="news-info">
-                    <p><span localeString="home_news2__">有大地色系的组合，如卡其、米白、暗红、深棕等组合，更有大红、经典黑白的撞色，如此精致巧妙的设计，令秋冬时装彰显出别样的优雅与艺术魅力。</span></p>
+                    <p><span localeString="home_news2__">这个有故事的意大利高端内衣品牌一直专注于让女人的里子和外表一样优雅,现在这个创立已经62年的品牌决定要正式进军成衣业了， 这个系列的服装将由新任命的创意总监Julia Haart设计。</span></p>
                 </div>
             </div>
             <div class="col-md-3 news-grid wow bounceIn animated" data-wow-delay="0.4s" style="visibility: visible; -webkit-animation-delay: 0.4s;">
-                <h4><span localeString="home_news3">秋冬秀场</span></h4>
-                <span localeString="home_news3_">9.00 - 10.00 | 12-22-2016</span>
+                <h4><span localeString="home_news3">传天后Rihanna将参加巴黎时装周发布新系列</span></h4>
+                <span localeString="home_news3_">9.00 - 10.00 | 08-29-2016</span>
                 <img src="images/news3.png" alt="" />
                 <div class="news-info">
                     <p><span localeString="home_news3__">据巴黎最新消息，社交媒体天后Rihanna或将登上巴黎时装周舞台，有消息指Rihanna退出纽约时装周后将登陆巴黎时装周发布2017春季Fenty Puma by Riihanna系列时装秀。</span></p>
@@ -220,10 +220,10 @@
             </div>
             <div class="col-md-3 news-grid wow bounceIn animated" data-wow-delay="0.4s" style="visibility: visible; -webkit-animation-delay: 0.4s;">
                 <h4><span localeString="home_news4">2016广东时装周开幕：以艺术之美诠释优雅</span></h4>
-                <span localeString="home_news4_">11.00 - 15.00 | 12-22-2016</span>
+                <span localeString="home_news4_">11.00 - 15.00 | 08-28-2016</span>
                 <img src="images/news4.png" alt="" />
                 <div class="news-info">
-                    <p><span localeString="home_news4__">冬日的蕾丝少了一分夏日甜美，多了一份魅惑性感。投资一款蕾丝刺绣单品，浪漫度秋冬。</span></p>
+                    <p><span localeString="home_news4__">以《融•悟》为主题的高级定制时装发布会在广东时装周拉开帷幕，设计师将艺术之美融入时装设计，唤醒人们对艺术的憧 憬，并用时装传递心中的优雅。</span></p>
                 </div>
             </div>
             <div class="clearfix"> </div>
