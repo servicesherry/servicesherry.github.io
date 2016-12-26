@@ -94,5 +94,25 @@ var en_US={
     event_header3:"Rihanna",
     event_header3_:" Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque aut esse eum perspiciatis vel. Architecto quae quod voluptas? Ad cupiditate delectus eius excepturi impedit molestiae nobis quaerat recusandae similique vitae. Architecto quae quod voluptas? Ad cupiditate delectus eius excepturi impedit molestiae nobis quaerat recusandae similique vitae. Architecto quae quod voluptas? Ad cupiditate delectus eius excepturi impedit molestiae nobis quaerat recusandae similique vitae.",
     event_header4:"2016GUANGDONG",
-    event_header4_:"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque aut esse eum perspiciatis vel. Architecto quae quod voluptas? Ad cupiditate delectus eius excepturi impedit molestiae nobis quaerat recusandae similique vitae. Architecto quae quod voluptas? Ad cupiditate delectus eius excepturi impedit molestiae nobis quaerat recusandae similique vitae."
+    event_header4_:"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque aut esse eum perspiciatis vel. Architecto quae quod voluptas? Ad cupiditate delectus eius excepturi impedit molestiae nobis quaerat recusandae similique vitae. Architecto quae quod voluptas? Ad cupiditate delectus eius excepturi impedit molestiae nobis quaerat recusandae similique vitae.",
+    pro_1:"C",
+    pro_1_:"clothes",
+    pro_1_1:"hkjshduifhjhsaakhfkjhsdkjfh",
+    pro_1_2:"skdlhfkjahjjlfkjsdlkfto quae quod voluptas? Ad cupiditate delectus eius excep",
+    pro_1_3:"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque aut esse eum perspiciatis vel. Architecto quae quod",
+    pro_2:"A",
+    pro_2_:"accessories",
+    pro_2_1:"dolor sit amet, consectetur adipisicing ",
+    pro_2_2:"Architecto quae quod voluptas? Ad cupiditate delectus eius excepturi impedit ",
+    pro_2_3:"skdlhfkjahjjlfkjsdlkfto quae quod voluptas? Ad cupiditate dskdlhfkjahjjlfkjsdlkfto quae quod voluptas? Ad cupiditate d",
+    pro_3:"D",
+    pro_3_:"digital",
+    pro_3_1:"lhfkjkjsdlkfto quae quod voluptas? Ad cupiditate dskdlhfkjahjjlfkjsdlkfto quae quod voluptas? Ad cupiditate",
+    pro_3_2:"hjkashfkj",
+    pro_3_3:"lhfkjahjjlfkjsdlkfto quae quod voluptas? Ad cupiditate dskdlhfkjahjjlfkjsdlkfto quae quod voluptas? Ad",
+    pro_4:"H",
+    pro_4_:"home",
+    pro_4_1:"quod voluptas? Ad cupiditate dskdlhfkjahjjlfkjsdlkft",
+    pro_4_2:"quod voluptas? Ad cupiditate dskdlhfkjahjjlfkjsdlkftquod voluptas? Ad cupiditate dskdlhfkjahjjlfkjsdlkft"
+
 }
