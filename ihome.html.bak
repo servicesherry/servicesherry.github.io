@@ -195,15 +195,15 @@
         </div>
         <div class="news-grids">
             <div class="col-md-3 news-grid wow bounceIn animated" data-wow-delay="0.4s" style="visibility: visible; -webkit-animation-delay: 0.4s;">
-                <h4><span localeString="home_news1">2016秋冬秀场</span></h4>
+                <h4><span localeString="home_news1">历史性的时刻，2016年年会</span></h4>
                 <span localeString="home_news1_">10.30 - 11.00 | 12-30-2016</span>
                 <img src="images/news1.png" alt="" />
                 <div class="news-info">
-                    <p><span localeString="home_news1__">轩瑞锋尚在全国肌转系统敲响新三板上市挂牌的钟声。</span></p>
+                    <p><span localeString="home_news1__">轩瑞锋尚在全国股转系统敲响新三板上市挂牌的钟声。</span></p>
                 </div>
             </div>
             <div class="col-md-3 news-grid wow bounceIn animated" data-wow-delay="0.4s" style="visibility: visible; -webkit-animation-delay: 0.4s;">
-                <h4><span localeString="home_news2">历史性的时刻</span></h4>
+                <h4><span localeString="home_news2">2016年年会答谢晚宴概况</span></h4>
                 <span localeString="home_news2_">18.00 - 22.00 | 12-30-2016</span>
                 <img src="images/news2.png" alt="" />
                 <div class="news-info">
