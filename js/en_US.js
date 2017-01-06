@@ -83,7 +83,7 @@ var en_US={
     contact_1:"Address",
     contact_1_1:"Room L307-308,Hopson Fortune Plaza, No.223 Building,",
     contact_1_2:"No.28 Guangqu Road,Chaoyang District, Beijing",
-    contact_2:"Telephone: (+86)010-56916479",
+    contact_2:"TEL: (+86)010-56916479",
     contact_3:"FAX：(+86)010-56916478-811",
     contact_4:'E-mail: <\a href="mailto:service@sherrytek.com">service@sherrytek.com<\/a>',
     home_news:"News",
