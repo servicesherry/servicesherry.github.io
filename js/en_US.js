@@ -110,7 +110,7 @@ var en_US={
     pro_3_1:"We do more than just a digital product, but a personality fashion way of life",
     pro_3_2:"Many say wearables will forever change the way we live, work and do business.",
     pro_3_3:"To remain competitive, your company might have to adopt a competitive wearables-integrated edge.",
-    pro_4:"Home",
+    pro_4:"Household items",
     pro_4_:"Home",
     pro_4_1:"The artists of that period regard building, furniture and household adornment as another kind of artistic creation. ",
     pro_4_2:"We will wholeheartedly sincere for you to create a different art, different worlds of the home environment."
