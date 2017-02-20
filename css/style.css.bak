@@ -1437,7 +1437,7 @@ span.menu {
 	  padding: 2em 0;
 	}
 	.news-text h3 {
-		font-size: 35px;
+		font-size: 26px;
 	}
 	.news-grids {
 	  margin-top: 0em;
