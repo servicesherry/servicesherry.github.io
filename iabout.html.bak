@@ -4,7 +4,7 @@
     <!-- container -->
     <div class="container">
         <div class="about-info wow fadeInLeft animated" data-wow-delay="0.4s" style="visibility: visible; -webkit-animation-delay: 0.4s;">
-            <h3><span localeString="about_header">关于我们</span></h3>
+            <h3><span localeString="about_header">关于我们123123</span></h3>
             <h5><span localeString="about_header1">创新产品设计,满足客户需求，争做行业先锋，引领产业风尚。</span><span localeString="about_header2">打造专属的个人风格</span></h5>
         </div>
         <div class="banner-bottom-grids a-banner-bottom-grids">
