@@ -56,34 +56,7 @@
                     </div>
                 </div>
             </li>
-			<li>
-                <div class="row">
-                    <div class="col-md-4">
-                        <img class="img-responsive" src="images/news5.png" alt="">
-                    </div>
-                    <div class="col-md-8">
-                        <h3><span localeString="event_header4">轩瑞锋尚新视点</span></h3>
-                        <div class="newsText"><span localeString="event_header4_">
-                           轩瑞锋尚新视点.
-                        </span></div>
-                    </div>
-                </div>
-            </li>
-			<li>
-                <div class="row">
-                    <div class="col-md-4">
-                        <img class="img-responsive" src="images/news6.png" alt="">
-                    </div>
-                    <div class="col-md-8">
-                        <h3><span localeString="event_header4">轩瑞锋尚新视点</span></h3>
-                        <div class="newsText"><span localeString="event_header4_">
-                           轩瑞锋尚新视点.
-                        </span></div>
-                    </div>
-                </div>
-            </li>
         </ul>
     </div>
 </div>
-
 <!--//tlx-->
