@@ -220,7 +220,7 @@
             </div>
             <div class="col-md-3 news-grid wow bounceIn animated" data-wow-delay="0.4s" style="visibility: visible; -webkit-animation-delay: 0.4s;">
                 <h4><span localeString="home_news4">关联交易公告</span></h4>
-                <span localeString="home_news4_">10:00 - 12:00 | 01-11-2017</span>
+                <span localeString="home_news4_">09:00 - 10:00 | 01-11-2017</span>
                 <img src="images/news4.png" alt="" />
                 <div class="news-info">
                     <p><span localeString="home_news4__">关联交易公告</span></p>
