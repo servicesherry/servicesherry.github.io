@@ -6,58 +6,13 @@
             <li>
                 <div class="row">
                     <div class="col-md-4">
-                        <img class="img-responsive" src="images/news6.png" alt="">
+                        <img class="img-responsive" src="images/news1.png" alt="">
                     </div>
                     <div class="col-md-8">
-                        <h3><span localeString="event_header6">北京轩瑞锋尚科技股份有限公司董事任命公告</span></h3>
-                        <div class="newsText"><span localeString="event_header6_">
+                        <h3><span localeString="event_header1">北京轩瑞锋尚科技股份有限公司董事任命公告</span></h3>
+                        <div class="newsText"><span localeString="event_header1_">
                            
 						   http://www.neeq.com.cn/disclosure/2017/2017-02-07/1486453071_450956.pdf
-
-                        </span></div>
-                    </div>
-                </div>
-            </li>
-			<li>
-                <div class="row">
-                    <div class="col-md-4">
-                        <img class="img-responsive" src="images/news5.png" alt="">
-                    </div>
-                    <div class="col-md-8">
-                        <h3><span localeString="event_header5">北京轩瑞锋尚科技股份有限公司2017年第一次临时股东大会决议公告</span></h3>
-                        <div class="newsText"><span localeString="event_header5_">
-                           
-						   http://www.neeq.com.cn/disclosure/2017/2017-02-07/1486453070_920199.pdf
-
-                        </span></div>
-                    </div>
-                </div>
-            </li>
-			<li>
-                <div class="row">
-                    <div class="col-md-4">
-                        <img class="img-responsive" src="images/news4.png" alt="">
-                    </div>
-                    <div class="col-md-8">
-                        <h3><span localeString="event_header4">北京轩瑞锋尚科技股份有限公司2017年第一次临时股东大会通知公告</span></h3>
-                        <div class="newsText"><span localeString="event_header4_">
-                           
-						   http://www.neeq.com.cn/disclosure/2017/2017-01-11/1484125386_302627.pdf
-
-                        </span></div>
-                    </div>
-                </div>
-            </li>
-			<li>
-                <div class="row">
-                    <div class="col-md-4">
-                        <img class="img-responsive" src="images/news3.png" alt="">
-                    </div>
-                    <div class="col-md-8">
-                        <h3><span localeString="event_header3">北京轩瑞锋尚科技股份有限公司关联交易公告</span></h3>
-                        <div class="newsText"><span localeString="event_header3_">
-                            
-							http://www.neeq.com.cn/disclosure/2017/2017-01-11/1484125268_012546.pdf
 
                         </span></div>
                     </div>
@@ -69,8 +24,53 @@
                         <img class="img-responsive" src="images/news2.png" alt="">
                     </div>
                     <div class="col-md-8">
-                        <h3><span localeString="event_header2">第一届董事会第三次会议决议公告</span></h3>
+                        <h3><span localeString="event_header2">北京轩瑞锋尚科技股份有限公司2017年第一次临时股东大会决议公告</span></h3>
                         <div class="newsText"><span localeString="event_header2_">
+                           
+						   http://www.neeq.com.cn/disclosure/2017/2017-02-07/1486453070_920199.pdf
+
+                        </span></div>
+                    </div>
+                </div>
+            </li>
+			<li>
+                <div class="row">
+                    <div class="col-md-4">
+                        <img class="img-responsive" src="images/news3.png" alt="">
+                    </div>
+                    <div class="col-md-8">
+                        <h3><span localeString="event_header3">北京轩瑞锋尚科技股份有限公司2017年第一次临时股东大会通知公告</span></h3>
+                        <div class="newsText"><span localeString="event_header3_">
+                           
+						   http://www.neeq.com.cn/disclosure/2017/2017-01-11/1484125386_302627.pdf
+
+                        </span></div>
+                    </div>
+                </div>
+            </li>
+			<li>
+                <div class="row">
+                    <div class="col-md-4">
+                        <img class="img-responsive" src="images/news4.png" alt="">
+                    </div>
+                    <div class="col-md-8">
+                        <h3><span localeString="event_header4">北京轩瑞锋尚科技股份有限公司关联交易公告</span></h3>
+                        <div class="newsText"><span localeString="event_header4_">
+                            
+							http://www.neeq.com.cn/disclosure/2017/2017-01-11/1484125268_012546.pdf
+
+                        </span></div>
+                    </div>
+                </div>
+            </li>
+			<li>
+                <div class="row">
+                    <div class="col-md-4">
+                        <img class="img-responsive" src="images/news5.png" alt="">
+                    </div>
+                    <div class="col-md-8">
+                        <h3><span localeString="event_header5">第一届董事会第三次会议决议公告</span></h3>
+                        <div class="newsText"><span localeString="event_header5_">
                             
 							http://www.neeq.com.cn/disclosure/2017/2017-01-11/1484125264_234524.pdf
 
@@ -80,12 +80,12 @@
             </li>
                 <div class="row">
                     <div class="col-md-4">
-                        <img class="img-responsive" src="images/news1.png" alt="">
+                        <img class="img-responsive" src="images/news6.png" alt="">
                     </div>
                     <div class="col-md-8">
-                        <h3><span localeString="event_header1">北京轩瑞锋尚科技股份有限公司总经理任命公告</span></h3>
+                        <h3><span localeString="event_header6">北京轩瑞锋尚科技股份有限公司总经理任命公告</span></h3>
                         <div class="newsText">
-                            <span localeString="event_header1_">
+                            <span localeString="event_header6_">
                             
 							http://www.neeq.com.cn/disclosure/2017/2017-01-11/1484125163_073027.pdf
 。
