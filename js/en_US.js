@@ -76,7 +76,7 @@ var en_US={
     home_news2__:"Shareholders' meeting",
     home_news3:"Announcements of the  shareholders' general meeting",
     home_news3_:"09:00 - 10:00 | 01-11-2017",
-    home_news3__:"nnouncements of the extraordinary shareholders' general meeting",
+    home_news3__:"Announcements of the extraordinary shareholders' general meeting",
     home_news4:"Connection transaction announcement",
     home_news4_:"10:00 - 11:00 | 01-11-2017",
     home_news4__:"Connection transaction announcement",
