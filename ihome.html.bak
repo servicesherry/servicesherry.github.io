@@ -207,7 +207,7 @@
                 <span localeString="home_news2_">10:00 - 12:00 | 02-07-2017</span>
                 <img src="images/news2.png" alt="" />
                 <div class="news-info">
-                    <p><span localeString="home_news2__">第一次临时股东大会决议公告</span></p>
+                    <a href="http://www.neeq.com.cn/disclosure/2017/2017-02-07/1486453070_920199.pdf" target="_blank">查看公告详情</a>
                 </div>
             </div>
             <div class="col-md-3 news-grid wow bounceIn animated" data-wow-delay="0.4s" style="visibility: visible; -webkit-animation-delay: 0.4s;">
@@ -215,7 +215,7 @@
                 <span localeString="home_news3_">09:00 - 10:00 | 01-11-2017</span>
                 <img src="images/news3.png" alt="" />
                 <div class="news-info">
-                    <p><span localeString="home_news3__">第一次临时股东大会通知公告</span></p>
+                    <a href="http://www.neeq.com.cn/disclosure/2017/2017-01-11/1484125386_302627.pdf" target="_blank">查看公告详情</a>
                 </div>
             </div>
             <div class="col-md-3 news-grid wow bounceIn animated" data-wow-delay="0.4s" style="visibility: visible; -webkit-animation-delay: 0.4s;">
@@ -223,7 +223,7 @@
                 <span localeString="home_news4_">09:00 - 10:00 | 01-11-2017</span>
                 <img src="images/news4.png" alt="" />
                 <div class="news-info">
-                    <p><span localeString="home_news4__">关联交易公告</span></p>
+                    <a href="http://www.neeq.com.cn/disclosure/2017/2017-01-11/1484125268_012546.pdf" target="_blank">查看公告详情</a>
                 </div>
             </div>
             <div class="clearfix"> </div>
