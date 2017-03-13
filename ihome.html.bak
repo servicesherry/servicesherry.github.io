@@ -199,7 +199,7 @@
                 <span localeString="home_news1_">09:00 - 10:00 | 02-07-2017</span>
                 <img src="images/news1.png" alt="" />
                 <div class="news-info">
-                    <p><span localeString="home_news1__">董事任命公告</span></p>
+                    <a href="http://www.neeq.com.cn/disclosure/2017/2017-02-07/1486453071_450956.pdf" target="_blank">查看公告详情</a>
                 </div>
             </div>
             <div class="col-md-3 news-grid wow bounceIn animated" data-wow-delay="0.4s" style="visibility: visible; -webkit-animation-delay: 0.4s;">
