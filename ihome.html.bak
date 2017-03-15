@@ -228,11 +228,11 @@
             </div>
 			<h5><span></span></h5>
 			<div class="col-md-3 news-grid wow bounceIn animated" data-wow-delay="0.4s" style="visibility: visible; -webkit-animation-delay: 0.4s;">
-                <h4><span localeString="home_news0">中关村科技园区领导指导工作</span></h4>
+                <h4><span localeString="home_news0">中关村科技园区领导莅临指导工作</span></h4>
                 <span localeString="home_news0_">10:00 - 12:00 | 03-15-2017</span>
                 <img src="images/news0.png" alt="" />
                 <div class="news-info">
-                    中关村科技园区领导指导工作
+                    中关村科技园区领导在指导工作
                 </div>
             <div class="clearfix"> </div>
         </div>
