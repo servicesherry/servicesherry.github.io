@@ -12,7 +12,6 @@ var en_US={
     footSlogan2:"Vying for the industry pioneer and lead the industry trends.",
     footSlogan3:"Keep the customer satisfaction and market recognition.",
     footSlogan4:"Pioneer and steady, quality content and fashion trend.",
-
     pro_main:"Products",
     pro_main1:"Mainly : sweater, shirt, windbreaker, jacket etc.",
     pro_main2:"We provide professional design for high quality garment and accessaries ,offer reasonable price for products . the remarkable efficiency and thoughtful customer.",
@@ -69,7 +68,7 @@ var en_US={
     home_pro3_:"Mobile power、Electronic Bracelet.",
     home_pro4:"Home",
     home_pro4_:"Mat,Cushion,Travel kit",
-    home_news7:"Visitors to the company field trip",
+    home_news7:"Visitors to the company trip",
     home_news7_:"10:00 - 12:00 | 03-16-2017",
     home_news7__:"Welcome",
 	home_news0:"Science park leadership inspection work",
