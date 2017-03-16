@@ -195,19 +195,19 @@
         </div>
         <div class="news-grids">
             <div class="col-md-3 news-grid wow bounceIn animated" data-wow-delay="0.4s" style="visibility: visible; -webkit-animation-delay: 0.4s;">
-                <h4><span localeString="home_news1">董事任命公告</span></h4>
-                <span localeString="home_news1_">09:00 - 10:00 | 02-07-2017</span>
-                <img src="images/news1.png" alt="" />
+                <h4><span localeString="home_news7">外宾实地考查</span></h4>
+                <span localeString="home_news7_">10:00 - 12:00 | 03-16-2017</span>
+                <img src="images/news7.png" alt="" />
                 <div class="news-info">
-                    <a href="http://www.neeq.com.cn/disclosure/2017/2017-02-07/1486453071_450956.pdf" target="_blank">查看公告详情</a>
+                    欢迎外宾实地考察
                 </div>
             </div>
             <div class="col-md-3 news-grid wow bounceIn animated" data-wow-delay="0.4s" style="visibility: visible; -webkit-animation-delay: 0.4s;">
-                <h4><span localeString="home_news2">第一次临时股东大会决议公告</span></h4>
-                <span localeString="home_news2_">10:00 - 12:00 | 02-07-2017</span>
-                <img src="images/news2.png" alt="" />
+                <h4><span localeString="home_news0">中关村科技园区领导在指导工作</span></h4>
+                <span localeString="home_news0_">10:00 - 12:00 | 03-15-2017</span>
+                <img src="images/news0.png" alt="" />
                 <div class="news-info">
-                    <a href="http://www.neeq.com.cn/disclosure/2017/2017-02-07/1486453070_920199.pdf" target="_blank">查看公告详情</a>
+                    中关村科技园区领导在指导工作
                 </div>
             </div>
             <div class="col-md-3 news-grid wow bounceIn animated" data-wow-delay="0.4s" style="visibility: visible; -webkit-animation-delay: 0.4s;">
