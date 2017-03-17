@@ -12,6 +12,7 @@ var en_US={
     footSlogan2:"Vying for the industry pioneer and lead the industry trends.",
     footSlogan3:"Keep the customer satisfaction and market recognition.",
     footSlogan4:"Pioneer and steady, quality content and fashion trend.",
+	footSlogan5:"Welcome.",
     pro_main:"Products",
     pro_main1:"Mainly : sweater, shirt, windbreaker, jacket etc.",
     pro_main2:"We provide professional design for high quality garment and accessaries ,offer reasonable price for products . the remarkable efficiency and thoughtful customer.",
