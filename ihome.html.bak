@@ -219,7 +219,8 @@
                 <span localeString="home_news4_">09:00 - 10:00 | 01-11-2017</span>
                 <img src="images/news4.png" alt="" />
                 <div class="news-info">
-                    <a href="http://www.neeq.com.cn/disclosure/2017/2017-01-11/1484125386_302627.pdf" target="_blank">查看公告详情</a></div>
+                    <a href="http://www.neeq.com.cn/disclosure/2017/2017-01-11/1484125386_302627.pdf" target="_blank">查看公告详情</a>
+                </div>
             
             <div class="clearfix"> </div>
         </div>
