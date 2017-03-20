@@ -75,8 +75,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
     </div>
     <!--中英文切换-->
     <div class="lanDiv">
-        <button class="lanBtn active">中文</button>
-        <b class="line"></b>
+        <button class="lanBtn active">中文</button><b class="line"></b>
         <button class="lanBtn">English</button>
     </div>
     <script>
