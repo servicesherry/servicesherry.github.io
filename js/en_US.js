@@ -90,8 +90,8 @@ var en_US={
     home_news:"News",
     event_header6:"Directors Appoint Announcement",
     event_header6_:"
-		<div class="news-info"><p><a href="http://www.neeq.com.cn/disclosure/2017/2017-02-07/1486453071_450956.pdf" target="_blank">Read More</a></div>
-",
+		<div class="news-info">
+		<p><a href="http://www.neeq.com.cn/disclosure/2017/2017-02-07/1486453071_450956.pdf" target="_blank">Read More</a></div>",
     event_header5:"The extraordinary shareholders' general meeting resolution notice for the first time",
     event_header5_:"http://www.neeq.com.cn/disclosure/2017/2017-02-07/1486453070_920199.pdf",
     event_header4:"Announcements of the extraordinary shareholders' general meeting for the first time",
