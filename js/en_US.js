@@ -88,6 +88,8 @@ var en_US={
     contact_3:"FAX：(+86)010-56916478-811",
     contact_4:'E-mail: <\a href="mailto:service@sherrytek.com">service@sherrytek.com<\/a>',
     home_news:"News",
+	event_header7:"Annual report delay announcement",
+    event_header7_:"http://www.neeq.com.cn/disclosure/2017/2017-04-18/1492500927_565539.pdf",
     event_header6:"Directors Appoint Announcement",
     event_header6_:"http://www.neeq.com.cn/disclosure/2017/2017-02-07/1486453071_450956.pdf",
     event_header5:"The extraordinary shareholders' general meeting resolution notice for the first time",
