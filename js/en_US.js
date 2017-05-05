@@ -90,6 +90,7 @@ var en_US={
     home_news:"News",
 	event_header10:"2016 Annual Shareholders Meeting Announcements",
     event_header10_:"http://www.neeq.com.cn/disclosure/2017/2017-04-26/1493211905_964935.pdf",
+		<a href="http://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/XSB/2016-12/2016-12-07/2913344.PDF" target="_blank">查看公告详情</a>
 	event_header9:"The First Session of the Board of Directors Meeting Resolution Bulletin for the Fourth Time",
     event_header9_:"http://www.neeq.com.cn/disclosure/2017/2017-04-18/1492500927_565539.pdf",
 	event_header8:"The 2016 Annual Report",
