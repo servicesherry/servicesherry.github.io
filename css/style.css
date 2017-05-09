@@ -693,7 +693,7 @@ color: #333333;
 }
 .footer-left ul li{
 	display:inline-block;
-	margin:0 1em;
+	margin:0 5px;
 }
 .footer-left ul li:nth-child(1){
 	margin-left:0;
