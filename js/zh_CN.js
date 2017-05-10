@@ -109,7 +109,7 @@ var zh_CN={
 	event_header9:"第一届董事会第四次会议",
     event_header9_:"决议公告",
     event_header10:"2016年年度股东大会通知公告",
-    event_header10_:"http://www.neeq.com.cn/disclosure/2017/2017-04-26/1493211905_964935.pdf" target="_blank>查看公告详情</a>",
+    event_header10_:"通知公告",
     pro_1:"服",
     pro_1_:"饰",
     pro_1_1:"“制芰荷以为衣兮，集芙蓉以为裳”----屈原《离骚》",
