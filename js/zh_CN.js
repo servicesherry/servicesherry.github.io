@@ -87,7 +87,7 @@ var zh_CN={
     contact_2:"电话：(+86)010-56916479",
     contact_3:"传真：(+86)010-56916478-811",
     contact_4:'邮箱： <\a href="mailto:service@sherrytek.com">service@sherrytek.com<\/a>',
-    home_news:"信息披露投资咨询",
+    home_news:"信 息 披 露 投 资 咨 询",
     event_header1:"董事任命公告",
     event_header1_:"董事任命公告",
     event_header2:"第一次临时股东大会决议公告",
