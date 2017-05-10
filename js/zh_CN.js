@@ -89,7 +89,7 @@ var zh_CN={
     contact_4:'邮箱： <\a href="mailto:service@sherrytek.com">service@sherrytek.com<\/a>',
     home_news:"信息披露投资咨询",
 	event_header0:"公司股票将在全国股份转让系统挂牌公开转让的提示性公告",
-    event_header0_:"<\a href="">http://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/XSB/2016-12/2016-12-07/2913344.PDF<\/a>",
+    event_header0_:"http://file.finance.sina.com.cn/211.154.219.97:9494/MRGG/XSB/2016-12/2016-12-07/2913344.PDF",
     event_header1:"总经理任命公告",
     event_header1_:"http://www.neeq.com.cn/disclosure/2017/2017-01-11/1484125163_073027.pdf",
     event_header2:"第一届董事会第三次会议决议公告",
