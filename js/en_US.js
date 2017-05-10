@@ -91,7 +91,7 @@ var en_US={
 	event_header10:"2016 Annual Shareholders Meeting Announcements",
     event_header10_:"http://www.neeq.com.cn/disclosure/2017/2017-04-26/1493211905_964935.pdf",
 	event_header9:"The First Session of the Board of Directors Meeting Resolution Bulletin for the Fourth Time",
-    event_header9_:"http://www.neeq.com.cn/disclosure/2017/2017-04-18/1492500927_565539.pdf",
+    event_header9_:"http://www.neeq.com.cn/disclosure/2017/2017-04-26/1493210407_550917.pdf",
 	event_header8:"The 2016 Annual Report",
     event_header8_:"http://www.neeq.com.cn/disclosure/2017/2017-04-26/1493210114_047720.pdf",
     event_header6:"Directors Appoint Announcement",
