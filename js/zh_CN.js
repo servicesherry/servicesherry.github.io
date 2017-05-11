@@ -1,8 +1,8 @@
 var zh_CN={
     navHome:"主页",
     navAbout:"关于我们",
-    navProduct:"产 品",
-    navEvent:"信 息  披 露    投 资  咨 询",
+    navProduct:"产品",
+    navEvent:"信息披露",
     navContact:"联系我们",
     footAddr:"地址",
     footAddr2:"北京市朝阳区广渠路28号223号楼",
