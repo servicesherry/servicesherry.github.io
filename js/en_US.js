@@ -89,7 +89,7 @@ var en_US={
     contact_2:"TEL: (+86)010-56916479",
     contact_3:"FAX：(+86)010-56916478-811",
     contact_4:'E-mail: <\a href="mailto:service@sherrytek.com">service@sherrytek.com<\/a>',
-    home_news:"ANNOUNCEMENT",
+    home_news:"NEWS",
 	event_header10:"2016 Annual Shareholders Meeting Announcements",
     event_header10_:"http://www.neeq.com.cn/disclosure/2017/2017-04-26/1493211905_964935.pdf",
 	event_header9:"The First Session of the Board of Directors Meeting Resolution Bulletin for the Fourth Time",
